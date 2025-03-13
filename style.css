@@ -10,10 +10,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(194, 206, 206);
 }
 .main {
    /* height: 50%; */
-   background-color: rgb(194, 206, 206);
+   background-color:  rgb(233, 233, 233);
    padding: 15px 65px;
    border-radius: 10px;
    box-shadow: 5px 0 10px rgb(48, 48, 48);
