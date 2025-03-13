@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main {
+   /* height: 50%; */
+   background-color: rgb(194, 206, 206);
+   padding: 15px 65px;
+   border-radius: 10px;
+   box-shadow: 5px 0 10px rgb(48, 48, 48);
+}
+
+h1{
+    font-size: 350%;
+    margin-bottom: 20px;
+}
+.for {
+    display: flex;
+    justify-content: center;
+}
+input {
+    padding: 10px;
+    font-size: 120%;
+}
+button {
+    padding: 6px;
+    font-size: 121%;
+    text-transform: uppercase;
+}
+
+h3 {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 220%;
+}
+
+ul li{
+    list-style: none;
+    text-align: center;
+    font-size: 150%;
+}
